@@ -1,28 +1,30 @@
 .img-header{
-    width: 300px    
+    width: 150px    
     
 }
-header{
-    background-image: url(../img/pattern.png);
-    background-color: lightskyblue;
-    height: 150px;
-}
 .space{
-    height: 50px;
-}
-h1{
-    font-size: 100px;
+    height: 30px;
 }
 
 .thebooleaner{
     color: aqua;
 }
-.h2{
-    font-size: 50px;
-}
-.data{
-    font-size: 30px;
-}
 .img1{
-    height: 800px;
+    /* height: 200px; */
+}
+.background_header {
+    height: 100px;
+    background-image: url(../img/pattern.png);
+    background-color: lightskyblue;
+    background-size: 20%;
+}
+.frase-evidenziata{
+    background-color: yellow;
+}
+.intestazione_tabella{
+    background-color: #25a9e6;
+    color: white;
+}
+.riga-dispari{
+    background-color: #b3e4f3 ;
 }
