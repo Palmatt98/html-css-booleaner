@@ -1,0 +1,28 @@
+.img-header{
+    width: 300px    
+    
+}
+header{
+    background-image: url(../img/pattern.png);
+    background-color: lightskyblue;
+    height: 150px;
+}
+.space{
+    height: 50px;
+}
+h1{
+    font-size: 100px;
+}
+
+.thebooleaner{
+    color: aqua;
+}
+.h2{
+    font-size: 50px;
+}
+.data{
+    font-size: 30px;
+}
+.img1{
+    height: 800px;
+}
